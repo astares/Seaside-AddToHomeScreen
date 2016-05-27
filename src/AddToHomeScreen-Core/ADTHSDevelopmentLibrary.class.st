@@ -755,3 +755,9 @@ window.addToHomescreen = ath;
 })(window, document);
 '
 ]
+
+{ #category : #accessing }
+ADTHSDevelopmentLibrary >> selectorsToInclude [
+
+	^#(addtohomescreenJs addtohomescreenCss)
+]
