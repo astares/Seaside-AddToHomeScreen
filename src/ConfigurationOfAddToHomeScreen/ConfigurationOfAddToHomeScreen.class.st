@@ -177,6 +177,6 @@ ConfigurationOfAddToHomeScreen >> version100: spec [
 		spec description: 'version 1.0.0'.
 		spec author: 'TorstenBergmann'.
 		spec timestamp: '5/27/2016 21:03'.
-		spec package: #'AddToHomeScreen-Core' with: 'AddToHomeScreen-Core-TorstenBergmann.1'. ].
+		spec package: #'AddToHomeScreen-Core' with: 'AddToHomeScreen-Core-TorstenBergmann.2'. ].
 
 ]
