@@ -23,3 +23,13 @@ Metacello new
   repository: 'github://astares/AddToHomeScreen:master/src';
   load.
 ```
+
+## Usage
+Just call the addToHomescreen() in your entry component
+
+```Smalltalk
+renderContentOn: html
+	 
+	html render: loginPage.
+	html script: 'addToHomescreen();'
+```
